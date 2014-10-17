@@ -10,10 +10,4 @@ de protéines et bien d’autres.
 
 Membres du groupe :
 
-Vincent de Salle
-Mathieu Godefroid
-Raza Haq Qazi
-Thomas Kingunia
-Cindy Mateus
-Stefano Rossi
-Sophie Troye
+Vincent de Salle, Mathieu Godefroid, Raza Haq Qazi, Thomas Kingunia, Cindy Mateus, Stefano Rossi, Sophie Troye.
